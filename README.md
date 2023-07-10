@@ -7,7 +7,7 @@ To run the project
 - Video and audio conferencing capabilities.
 - Screen sharing functionality.
 - Chat feature for real-time communication.
-- 
+ 
 ## Installation
 
 1. Clone the repository and install it.
